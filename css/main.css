@@ -194,6 +194,37 @@ img {
   justify-content: space-between;
 }
 
+.aboutme {
+  padding: 4em;
+  background-color: #00F6FE;
+}
+
+.about-subtxt {
+  line-height: 2.5;
+}
+
+.cv {
+  padding-top: 1rem;
+}
+
+.button-cv {
+  margin-top: 10px;
+  background-color: white;
+  padding: .8rem;
+  text-transform: uppercase;
+  background-color: black;
+  color: #FF65CD
+}
+
+.button-cv:hover {
+  margin-top: 10px;
+  background-color: white;
+  padding: .8rem;
+  cursor: pointer;
+  background-color: #FF65CD;
+  color: #252525;
+}
+
 @media only screen and (min-width: 800px) {
 
   .featured,
